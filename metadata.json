@@ -1,0 +1,5 @@
+{
+  "name": "Baby Name Generator",
+  "description": "Generate a unique baby name based on the names of two parents. This app uses AI to predict a name, gender, and a heartwarming description for a couple's first-born child.",
+  "requestFramePermissions": []
+}
